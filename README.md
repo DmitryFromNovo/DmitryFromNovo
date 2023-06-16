@@ -1,4 +1,4 @@
-# Dmitry Dremin from Novosibirsk
+# Maxim Dislecsic from Novosibirsk
 
 <!--
 **DmitryFromNovo/DmitryFromNovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm currently working on Java 17, create console apps and libs. I learning framework Java - Spring. 
+### I'm currently working on C# 11
